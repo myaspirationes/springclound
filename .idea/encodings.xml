@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-springclound-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springclound-provider-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springclound-provider-03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springclound-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-springclound-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springclound-hystrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-springclound-hystrix-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-springclound-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-springclound-hystrix-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-springclound-hystirx-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-springclound-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-springclound-zuul-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-springclound-zuul-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-springclound-zuul-provider" charset="UTF-8" />
+  </component>
+</project>

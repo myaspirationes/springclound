@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-springclound-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springclound-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/03-springclound-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springclound-provider-02/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springclound-provider-03/pom.xml" />
+        <option value="$PROJECT_DIR$/04-springclound-hystrix-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/05-springclound-hystrix-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/06-springclound-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/06-springclound-hystrix-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/07-springclound-hystirx-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springclound-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springclound-zuul-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springclound-zuul-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springclound-zuul/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/04-springclound-hystrix-consumer/07-springclound-hystrixdashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/07-springclound-hystrixdashboard/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

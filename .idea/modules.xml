@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-springclound-provider/01-springclound-provider.iml" filepath="$PROJECT_DIR$/01-springclound-provider/01-springclound-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-springclound-provider-02/01-springclound-provider-02.iml" filepath="$PROJECT_DIR$/01-springclound-provider-02/01-springclound-provider-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-springclound-provider-03/01-springclound-provider-03.iml" filepath="$PROJECT_DIR$/01-springclound-provider-03/01-springclound-provider-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springclound-consumer/02-springclound-consumer.iml" filepath="$PROJECT_DIR$/02-springclound-consumer/02-springclound-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-springclound-eureka-server/03-springclound-eureka-server.iml" filepath="$PROJECT_DIR$/03-springclound-eureka-server/03-springclound-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springclound-hystrix-consumer/04-springclound-hystrix-consumer.iml" filepath="$PROJECT_DIR$/04-springclound-hystrix-consumer/04-springclound-hystrix-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springclound-hystrix-provider/05-springclound-hystrix-provider.iml" filepath="$PROJECT_DIR$/05-springclound-hystrix-provider/05-springclound-hystrix-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-eureka-server-hystrix/06-eureka-server-hystrix.iml" filepath="$PROJECT_DIR$/06-eureka-server-hystrix/06-eureka-server-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-springclound-eureka-server/06-springclound-eureka-server.iml" filepath="$PROJECT_DIR$/06-springclound-eureka-server/06-springclound-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-springclound-hystrix-eureka-server/06-springclound-hystrix-eureka-server.iml" filepath="$PROJECT_DIR$/06-springclound-hystrix-eureka-server/06-springclound-hystrix-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-springclound-hystirx-dashboard/07-springclound-hystirx-dashboard.iml" filepath="$PROJECT_DIR$/07-springclound-hystirx-dashboard/07-springclound-hystirx-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springclound-zuul/08-springclound-zuul.iml" filepath="$PROJECT_DIR$/08-springclound-zuul/08-springclound-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springclound-zuul-consumer/08-springclound-zuul-consumer.iml" filepath="$PROJECT_DIR$/08-springclound-zuul-consumer/08-springclound-zuul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springclound-zuul-gateway/08-springclound-zuul-gateway.iml" filepath="$PROJECT_DIR$/08-springclound-zuul-gateway/08-springclound-zuul-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springclound-zuul-provider/08-springclound-zuul-provider.iml" filepath="$PROJECT_DIR$/08-springclound-zuul-provider/08-springclound-zuul-provider.iml" />
+    </modules>
+  </component>
+</project>

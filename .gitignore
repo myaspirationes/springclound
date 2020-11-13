@@ -1,0 +1,5 @@
+# Project exclude paths
+/08-springclound-zuul/target/
+/08-springclound-zuul-consumer/target/
+/08-springclound-zuul-gateway/target/
+/08-springclound-zuul-provider/target/
